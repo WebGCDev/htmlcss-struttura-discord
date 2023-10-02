@@ -12,6 +12,31 @@ Reset
 
 /*
 ******
+DEBUG
+******
+*/
+
+.header-top {
+  background-color: #add8e6;
+  height: 83px;
+}
+
+.header-bottom {
+  background-color: #00008b;
+  display: flex;
+  justify-content: center;
+}
+
+.contpink {
+  background-color: #ee82ee;
+  height: 400px;
+  width: 930px;
+  margin: 50px 0px 50px 0px;
+  border-style: dashed;
+}
+
+/*
+******
 Common
 ******
 */
