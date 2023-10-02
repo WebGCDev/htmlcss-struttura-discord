@@ -19,6 +19,26 @@ DEBUG
 .header-top {
   background-color: #add8e6;
   height: 83px;
+  display: flex;
+}
+
+.contyellow {
+  background-color: #daa520;
+  display: flex;
+  justify-content: center;
+}
+
+.col1head,
+.col3head {
+  height: 46px;
+  width: 246px;
+  border-style: dashed;
+}
+
+.col2head {
+  height: 46px;
+  width: 747px;
+  border-style: dashed;
 }
 
 .header-bottom {
@@ -77,6 +97,47 @@ DEBUG
   width: 930px;
   margin: 50px 0px 50px 0px;
   border-style: dashed;
+}
+
+.container,
+.endfood {
+  display: flex;
+  background-color: #23272a;
+  margin: 15px 0px 40px 0px;
+}
+
+.endfood {
+  display: flex;
+  height: 114px;
+}
+
+.containerend {
+  width: 1250px;
+  height: 84px;
+}
+
+.col1foot {
+  background-color: #f08080;
+  height: 600px;
+  width: 373px;
+  border-style: dashed;
+}
+
+.col1end,
+.col2end {
+  background-color: #ffb6c1;
+  border-style: dashed;
+}
+
+.col2foot,
+.col3foot,
+.col4foot,
+.col5foot {
+  background-color: #20b2aa;
+  height: 600px;
+  width: 216px;
+  border-style: dashed;
+  border-color: white;
 }
 
 /*
